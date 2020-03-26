@@ -1,0 +1,83 @@
+$static: 'http://static.medforum.pl/minisite/akademiabebilon/static/';
+$static2: 'http://static2.medforum.pl/';
+$superMegaExtraLarge: 1500px;
+$widthExtraLarge: 1270px;
+$widthLarge     : 1000px;
+$widthMedium    : 768px;
+$widthSmall     : 480px;
+$widthExtraSmall: 320px;
+
+$spacing : 15px;
+
+$zIndexCookies: 999;
+$zIndexAlert  : 998;
+$zIndexPopup  : 997;
+
+$zIndexHeader: 3;
+$zIndexMain: 1;
+$zIndexFooter: 2;
+
+//COLORS
+//DARK BLUE
+$colorPrimary: #132282;
+$colorPrimary2: #102b77;
+$colorPrimary3: #26338c;
+$colorPrimary4: #364f9a;
+$colorPrimary5: #4052c3;
+$colorPrimary6: #0e2c85;
+$colorPrimary7: #596dab;
+
+//LIGHT BLUE
+$colorSecondary: #3eacf9;
+$colorSecondary2: #69c1ff;
+$colorSecondary3: #e1f2fe;
+$colorSecondary4: #ebf1f7;
+$colorSecondary5: #91d5ff;
+
+//BEIGE
+$colorTertiary: #e0cca7;
+$colorTertiary2: #e6c473;
+$colorTertiary3: #f1d888;
+$colorTertiary4: #f5f4f0;
+$colorTertiary5: #e0dfd9;
+$colorTertiary6: #f0efe9;
+$colorTertiary7: #f3f0ea;
+$colorTertiary8: #f7f6f6;
+$colorTertiary9: #ececec;
+$colorTertiary10: #e3e3e3;
+
+
+
+//
+$colorBg: #ffffff;
+$colorFill: #f9f9f9;
+$colorBorder: #f0efe9;
+
+
+//TEXTS
+$colorText: #585858;
+$colorTextLighter: lighten($colorText, 30%);
+$colorTextLightest: #ffffff;
+
+
+//SUCCESS
+$colorSuccess      : #dff0d8;
+$colorSuccessBorder: #bfe6af;
+$colorSuccessText  : #3c763d;
+
+//ERROR
+$colorError      : #f2dede;
+$colorErrorBorder: #e6b3b3;
+$colorErrorText  : #a94442;
+
+//INFO
+$colorInfo      : #d9edf7;
+$colorInfoBorder: #aed6ea;
+$colorInfoText  : #31708f;
+
+// MY variables
+
+// PHONE & IPAD QUIERIES
+
+$mobile: 600px; 
+$ipad: 991px;
